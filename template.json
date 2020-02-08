@@ -1,5 +1,12 @@
 {
   "name": "basic",
+  "dependencies": [
+    "@types/jest",
+    "husky",
+    "tsdx",
+    "tslib",
+    "typescript"
+  ],
   "packageJson": {
     "version": "0.1.0",
     "license": "MIT",
